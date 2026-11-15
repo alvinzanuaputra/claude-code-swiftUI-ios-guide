@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40alvinzanuaputra-181717?logo=github&logoColor=white)](https://github.com/alvinzanuaputra)
 [![Website](https://img.shields.io/badge/Website-alvinzanua.site-4F46E5?logo=googlechrome&logoColor=white)](https://www.alvinzanua.site)
 
-Ditulis oleh **[Alvin Zanua Putra](https://github.com/alvinzanuaputra)** ([@alvinzanuaputra](https://github.com/alvinzanuaputra)) · Web Developer · [www.alvinzanua.site](https://www.alvinzanua.site)
+**[Alvin Zanua Putra](https://github.com/alvinzanuaputra)** ([@alvinzanuaputra](https://github.com/alvinzanuaputra)) · Web Developer · [www.alvinzanua.site](https://www.alvinzanua.site)
 
 🌐 **Bahasa:** [English](README-EN.md) · **Bahasa Indonesia**
 
